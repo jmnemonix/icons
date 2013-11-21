@@ -32,8 +32,8 @@
    sodipodi:docname="python-2.svg"
    version="1.0"
    inkscape:export-filename="py2.png"
-   inkscape:export-xdpi="9"
-   inkscape:export-ydpi="9"
+   inkscape:export-xdpi="12.313599"
+   inkscape:export-ydpi="12.313599"
    style="overflow:visible"><svg:defs
      id="defs381"><svg:linearGradient
        id="linearGradient4504"><svg:stop
@@ -165,15 +165,7 @@
        x1="172.94208"
        y1="77.475983"
        x2="26.670298"
-       y2="76.313133" /><svg:linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4504"
-       id="linearGradient4510"
-       x1="322.96521"
-       y1="570.14471"
-       x2="364.77167"
-       y2="494.36514"
-       gradientUnits="userSpaceOnUse" /></svg:defs><sodipodi:namedview
+       y2="76.313133" /></svg:defs><sodipodi:namedview
      inkscape:window-height="960"
      inkscape:window-width="1919"
      inkscape:pageshadow="2"
@@ -184,7 +176,7 @@
      id="base"
      showborder="true"
      inkscape:zoom="1"
-     inkscape:cx="135.5"
+     inkscape:cx="137.5"
      inkscape:cy="136.60053"
      inkscape:window-x="1"
      inkscape:window-y="25"
@@ -388,7 +380,7 @@ et/xW/3Yq71v+K3+7FXet/xW/wB2Ku9b/it/uxV3rf8AFb/dirvW/wCK3+7FXet/xW/3Yq71v+K3
 XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX/2Q==</xapGImg:image></rdf:li></rdf:Alt></xap:Thumbnails></rdf:Description><rdf:Description
              rdf:about=""><dc:format>image/svg+xml</dc:format></rdf:Description><cc:Work
              rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-               rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></svg:metadata></x:xmpmeta><xpacket /></svg:metadata><svg:g
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></svg:metadata></x:xmpmeta><xpacket /></svg:metadata><svg:g
      id="g12"
      i:extraneous="self"
      transform="translate(0,-373.0688)"><svg:g
@@ -5342,7 +5334,7 @@ XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX/2Q==</xapGImg:image></rdf:li></rdf:Alt></xap:Thu
        id="path7996-3"
        inkscape:connector-curvature="0" /><svg:text
        xml:space="preserve"
-       style="font-size:173.43016051999998695px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4510);fill-opacity:1;stroke:none;stroke-width:2.33168006000000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+       style="font-size:173.43016051999998695px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#366a96;fill-opacity:1;stroke:none;stroke-width:2.33168006000000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
        x="264.79504"
        y="598.36255"
        id="text4453-8"
@@ -5351,7 +5343,7 @@ XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX/2Q==</xapGImg:image></rdf:li></rdf:Alt></xap:Thu
          id="tspan4455-0"
          x="264.79504"
          y="598.36255"
-         style="fill-opacity:1;fill:url(#linearGradient4510);stroke:none">2</svg:tspan></svg:text>
+         style="fill-opacity:1;fill:#366a96;stroke:none">2</svg:tspan></svg:text>
 </svg:g><i:pgf>
 			
 			eJzUvYd++jyyP/zeAPcQEnq1TS8JmB4gCS2FJIRqCAktlN19ztW/I7libGPaOfv/PLv5JbasMhqN
