@@ -1,4 +1,4 @@
 icons
 =====
 
-set of linux icons i sligtly edited to fit to my needs
+a set icons, which I have slightly modified in order to adapt it to my needs.
